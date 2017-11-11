@@ -4,8 +4,20 @@
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="appBarLayout_height">70dp</dimen>
+    <dimen name="CardView_margin">4dp</dimen>
+    <dimen name="AppBarLayout_elevation">4dp</dimen>
+    <dimen name="Recyclerview_paddingBottom">28dp</dimen>
+    <dimen name="Recyclerview_paddingTop">80dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="subtitle_padding">8dp</dimen>
+    <dimen name="title_paddingleft">16dp</dimen>
+    <dimen name="title_oaddingtop">16dp</dimen>
+    <dimen name="title_paddingright">16dp</dimen>
+    <dimen name="title_oaddingbottom">4dp</dimen>
+    <dimen name="button_width">56dp</dimen>
 
 </resources>
